@@ -1,3 +1,6 @@
+Check it out Live at: https://simple-memory-game-ad9ea.web.app/ or https://simple-memory-game-ad9ea.firebaseapp.com/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
